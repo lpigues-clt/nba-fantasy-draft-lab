@@ -25,6 +25,26 @@ https://nba-fantasy-draft-lab.streamlit.app/
 
 The application is publicly accessible. No local installation is required to explore the draft tools.
 
+## Application Screenshots
+
+### Fantasy Draft Dashboard
+
+Configure your draft, review player rankings, evaluate next-pick targets, and track your roster.
+
+![Fantasy Draft Lab dashboard](screenshots/draft-dashboard.png)
+
+### Interactive Player Analytics
+
+Explore player valuations through an interactive chart comparing fantasy points, draft value, and competitive edge.
+
+![Interactive NBA player analytics](screenshots/player-analytics.png)
+
+### Draft Tracking
+
+Record player selections, monitor draft progress, and manage picks through the Rapid Pick interface.
+
+![Fantasy basketball draft tracking](screenshots/draft-tracking.png)
+
 ## Key Features
 
 ### 1. Player Rankings & Valuation
